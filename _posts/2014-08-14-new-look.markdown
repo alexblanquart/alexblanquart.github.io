@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "New look"
+date:   2014-08-14
+categories: blog look
+---
+
+A quick post to announciate my new blog with a better look than the raw and old one. 
+
+Thanks to [Hyde](https://github.com/poole/hyde), this was quite easy as cloning the repository and make changes directly on files like:
+* _config.yml : setting global variables
+* sidebar.html : removing some things I do not really want to use for now
+* about.md, markdown posts : adding my personal stuff
+
+I have to say. [Github Pages](https://pages.github.com/) coupled to [Jekyll](http://jekyllrb.com/) makes the construction of a blog/static website very accessible and straightforward. 
+
+On the other hand, installing ruby, jekyll and all the other stuff, as suggested by github, could be hard. As such, I will stay for now with the automatic building of the pages. I only need to add one markdown file like this one and I am done! Easy right ?!

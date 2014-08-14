@@ -15,4 +15,6 @@ Thanks to [Hyde](https://github.com/poole/hyde), this was quite easy as cloning 
 
 I have to say. [Github Pages](https://pages.github.com/) coupled to [Jekyll](http://jekyllrb.com/) makes the construction of a blog/static website very accessible and straightforward. 
 
-On the other hand, installing ruby, jekyll and all the other stuff, as suggested by github, could be hard. As such, I will stay for now with the automatic building of the pages. I only need to add one markdown file like this one and I am done! Easy right ?!
+On the other hand, installing ruby, jekyll and all the other stuff, as suggested by github, could be hard. As such, I will stay for now with the automatic building of the pages. 
+
+I only need to add one markdown file like this one and I am done! **Easy right ?!**

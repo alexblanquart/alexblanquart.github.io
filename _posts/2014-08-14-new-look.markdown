@@ -10,6 +10,7 @@ A quick post to annunciate my new blog with a better look and feel than the raw 
 Thanks to [Hyde](https://github.com/poole/hyde), this was quite easy as cloning the repository and make changes directly on files like:
 
 * _config.yml : setting global variables
+* default.html : changing theme color
 * sidebar.html : removing some things I do not really want to use for now
 * about.md, markdown posts : adding my personal stuff
 

@@ -5,9 +5,10 @@ date:   2014-08-14
 categories: blog look
 ---
 
-A quick post to announciate my new blog with a better look than the raw and old one. 
+A quick post to annunciate my new blog with a better look and feel than the raw and old one. 
 
 Thanks to [Hyde](https://github.com/poole/hyde), this was quite easy as cloning the repository and make changes directly on files like:
+
 * _config.yml : setting global variables
 * sidebar.html : removing some things I do not really want to use for now
 * about.md, markdown posts : adding my personal stuff

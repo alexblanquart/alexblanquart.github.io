@@ -10,7 +10,7 @@ Last week I was at [Devoxx France 2015](http://www.devoxx.fr/). First time for m
 # Great people
 
 I would recommand anyone attend to this kind of conference, where you find a bunch of interesting people, from France and abroad. 
-For instance I had the chance to meet gopher @francesc(https://twitter.com/francesc) and asking him a ton of questions about Golang, Kubernetes and other stuff around Google.
+For instance I had the chance to meet gopher [@francesc](https://twitter.com/francesc) and asking him a ton of questions about Golang, Kubernetes and other stuff around Google.
 
 # Great conference
 

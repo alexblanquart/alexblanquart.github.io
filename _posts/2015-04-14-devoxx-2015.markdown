@@ -25,6 +25,7 @@ That said, I also attended other presentations which were not as great: presenta
 # New directions to take
 
 And now, I have to take actions: 
+
 * use [spring boot actuator](http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#production-ready)
 * enjoying [monoids](http://en.wikipedia.org/wiki/Monoid) in my code
 * investigating more on [Docker](https://www.docker.com/)

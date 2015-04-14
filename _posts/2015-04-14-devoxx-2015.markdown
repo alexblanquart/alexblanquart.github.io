@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Devoxx France 2015"
+date:   2015-04-14
+categories: blog devoxx
+---
+
+Last week I was at [Devoxx France 2015](http://www.devoxx.fr/). First time for me! 
+
+# Great people
+
+I would recommand anyone attend to this kind of conference, where you find a bunch of interesting people, from France and abroad. 
+For instance I had the chance to meet gopher @francesc(https://twitter.com/francesc) and asking him a ton of questions about Golang, Kubernetes and other stuff around Google.
+
+# Great conference
+
+This was a really a great conference, great organization and everything needed to have a good feeling that we are part of something special. And a great community as well. 
+
+# Great presentations or not?
+
+This is a special part. As anyone I guess, on [friday morning](http://cfp.devoxx.fr/2015/byday/fri), the keynotes were just awesome! I am really thankful to the devoxx team!  
+
+That said, I also attended other presentations which were not as great: presentations just mixing a lot of buzzwords and taking assumptions I would not make myself. And the [KISS principle](http://en.wikipedia.org/wiki/KISS_principle) ?
+
+# New directions to take
+
+And now, I have to take actions: 
+* use [spring boot actuator](http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#production-ready)
+* enjoying [monoids](http://en.wikipedia.org/wiki/Monoid) in my code
+* investigating more on [Docker](https://www.docker.com/)
+
+
